@@ -31,6 +31,8 @@ cd paip-lisp
 ```bash
 sbcl
 ```
+![image](https://github.com/user-attachments/assets/7d523f8c-8d33-4f85-b5ba-4f83d8f223fd)
+
 #### Cargar el archivo Eliza.Lisp 
 ```bash
 (load "eliza.lisp")
